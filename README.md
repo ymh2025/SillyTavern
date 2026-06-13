@@ -1,2 +1,2 @@
 # SillyTavern
-图片
+
